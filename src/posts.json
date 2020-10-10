@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "title": "test post",
+    "content": "Hey some post content",
+    "info": "helllloo"
+  },
+  {
+    "id": "2",
+    "title": "second post",
+    "content": "Hey this is the second post content"
+  },
+  {
+    "id": "3",
+    "title": "test post",
+    "content": "Hey some post content"
+  },
+  {
+    "id": "4",
+    "title": "second post",
+    "content": "Hey this is the second post content"
+  },
+  {
+    "id": "5",
+    "title": "test post",
+    "content": "Hey some post content"
+  },
+  {
+    "id": "6",
+    "title": "second post",
+    "content": "Hey this is the second post content"
+  }
+]
